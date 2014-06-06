@@ -8,7 +8,7 @@ permalink: /about/
 
 ### For those unfamiliar with Effulgence and its genre:
 
-{{ site.title }} is a collection of stories that share similar characters, settings, and themes. Not all of each are present in every story, and versions of a character may arise in very different settings. Likewise, otherwise similar settings may not necessarily share the same cast of characters. {{ site.title }} will happily employ [fusion](http://fanlore.org/wiki/Fusion) premises, such as a story where Sherlock Holmes and Don Quixote are fairies in the court of Titania and Oberon, or Odin and Hermes are human lovers in Prohibition-era Chicago.
+{{ site.title }} is a collection of stories that share similar characters, settings, and themes. Not all of each are present in every story, and versions of a character may arise in very different settings. Likewise, otherwise similar settings may not necessarily share the same cast of characters. {{ site.title }} will happily employ [fusion](http://fanlore.org/wiki/Fusion) premises, such as [a story]({{ site.baseurl }}/pensee/) where Sherlock Holmes is a fairy in the court of Titania and Oberon, or Odin and Hermes are human lovers in Prohibition-era Chicago.
 
 {{ site.title }} aspires to be a genre and a literary tradition, like Arthurian myth or vampire fiction or [fanon](http://fanlore.org/wiki/Fanon). Characters, settings, and themes may be reused, ignored, or modified, and new ones may be added. {{ site.title }} stories inspire and build upon one another, without being bound to fit together as a single continuity.
 
