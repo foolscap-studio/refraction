@@ -1,0 +1,11 @@
+# Site settings
+title: Refraction
+email: foolscap.studio@gmail.com
+username: foolscap-studio
+projectname: refraction
+description: "A free-culture fiction project."
+baseurl: /refraction
+
+# Build settings
+markdown: kramdown
+permalink: pretty
