@@ -9,3 +9,4 @@ baseurl: /refraction
 # Build settings
 markdown: kramdown
 permalink: pretty
+relative_permalinks: false
