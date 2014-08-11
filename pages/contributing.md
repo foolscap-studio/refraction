@@ -14,6 +14,8 @@ Refraction is maintained via [Github](https://github.com/{{ site.username }}/{{ 
 
 ### How to Edit
 
+After forking, use the `/backstage/` directory to help maintain a coherent artistic vision when editing, but be aware that spoilers are likely. Read `/backstage/About Backstage` first.
+
 To add a new story to Refraction, create a file in the `/_posts/` directory. The name of the file must be in the format `YYYY-MM-DD-posttitle.md`, with the appropriate date and title. You should also add a link to your story to the Contents page, in the file `/pages/02-contents.md`.
 
 Your file should begin with [YAML front matter](http://jekyllrb.com/docs/frontmatter/), which looks like this:
