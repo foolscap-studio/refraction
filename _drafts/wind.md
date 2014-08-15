@@ -12,4 +12,6 @@ She turns and descends the long stairs to her court, there to rest until the eve
 
 ---
 
-Gela owns a cottage and a goat. On alternate days, she walks to the market to sell the goat's milk and buy bread and cheese and onions.
+Gela owns a cottage and a goat. On alternate days, she walks to the market to sell the goat's milk and buy bread and cheese and onions. Sometimes travelers come by, and she offers them a roof and a meal and a bed, which she sometimes shares and sometimes not. In this way she lives.
+
+The goat dies.
