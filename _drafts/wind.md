@@ -4,7 +4,7 @@ title: Wind
 permalink: /wind/
 ---
 
-The high queen stands at the edge of the high cliff, the winter sun shining silver on her sword. The wind carries the smells of the valley to her, grass and hay and apple-blossoms and wet goat and the smoke of a hundred kitchens.
+The high queen stands at the edge of the high cliff, the winter sun shining silver on her sword. The wind carries the smells of the valley to her, grass and hay and apple-blossoms and goats and the smoke of a hundred kitchens.
 
 Her hair is gray, her eyes are gray, her gown is gray. Her land is green.
 
@@ -15,3 +15,10 @@ She turns and descends the long stairs to her court, there to rest until the eve
 Gela owns a cottage and a goat. On alternate days, she walks to the market to sell the goat's milk and buy bread and cheese and onions. Sometimes travelers come by, and she offers them a roof and a meal and a bed, which she sometimes shares and sometimes not. In this way she lives.
 
 The goat dies.
+
+She has no family to turn to, and no one will loan money to an unmarried woman going on forty. A bad risk, they say. She tries to sell her cottage, but it is far from town and the soil is no good for anything but weeds. Who wants such a place, they say.
+
+She goes to petition the queen.
+
+---
+
