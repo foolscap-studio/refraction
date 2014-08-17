@@ -18,6 +18,10 @@ After forking, use the `/backstage/` directory to help maintain a coherent artis
 
 To add a new story to Refraction, create a file in the `/_posts/` directory. The name of the file must be in the format `YYYY-MM-DD-posttitle.md`, with the appropriate date and title. You should also add a link to your story to the Contents page, in the file `/pages/02-contents.md`.
 
+When working on a new story, you may wish to use the `/drafts/` directory. To include drafts on your locally-hosted instance, invoke Jekyll as `jekyll serve --draft --watch`.
+
+When updating an existing story, create a symlink in `/_posts/` with the date of the update, so that the Updates page and the RSS feed show the update.
+
 Your file should begin with [YAML front matter](http://jekyllrb.com/docs/frontmatter/), which looks like this:
 
 <pre>
